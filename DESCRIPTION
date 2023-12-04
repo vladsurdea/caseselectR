@@ -1,0 +1,15 @@
+Package: caseselectR
+Type: Package
+Title: caseselectR: Case Selection with Causal Forests
+Version: 0.1.0
+Author: Vlad Surdea-Hernea
+Maintainer: Vlad Surdea-Hernea <surdea=hernea_vlad@phd.ceu.edut>
+Description: Tools for selectinc cases for in-depth analysis based on the conditional average treatment effect (CATE) of each observation, obtained using honest causal forests.
+Imports:
+  grf,
+  ggplot2,
+  ggpubr
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
